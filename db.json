@@ -1,5 +1,21 @@
 {
-  "Doctors": [
+  "users":[
+    {
+      "user":"priti",
+      "emailId":"priti@gmail.com",
+      "password":"priti",
+      "doctorCheckbox":false
+    },
+    {
+      "user":"priti",
+      "emailId":"priti@gmail.com",
+      "password":"priti",
+      "doctorCheckbox":false
+    }
+  ],
+  
+  
+  "appointments": [
     {
       "name": "Jane Doe",
       "image": "https://example.com/doctor-image.jpg",
